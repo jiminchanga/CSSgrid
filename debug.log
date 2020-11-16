@@ -1,0 +1,2 @@
+[1116/205616.748:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1116/212858.399:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\aisha\AppData\Roaming\Brackets\live-dev-profile\Crashpad\attachments\8b6db362-1c35-4817-88fc-fe7da960a123: The system cannot find the path specified. (0x3)
